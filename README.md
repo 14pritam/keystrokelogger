@@ -8,14 +8,8 @@ Features
 	•	Runs in the background.
 
 Usage
-	1.	Install dependencies:
-
-pip install pynput  
-
-
-	2.	Run the script:
-
-python keystroke_logger.py  
+	1. Install dependencies:   pip install pynput  
+	2. Run the script:  python keystroke_logger.py  
 
 
 
